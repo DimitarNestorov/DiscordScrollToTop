@@ -1,0 +1,14 @@
+---
+name: DiscordScrollToTop
+icmd: killall -9 Discord; open com.hammerandchisel.discord
+
+all:
+  targetvers: 13.0
+  archs:
+    - arm64
+    - arm64e
+
+DiscordScrollToTop:
+  type: tweak
+  logos_files:
+    - Tweak.xm

@@ -1,0 +1,9 @@
+Package: com.dimitarnestorov.discordscrolltotop
+Name: DiscordScrollToTop
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Scroll to the top in Discord by tapping the status bar
+Maintainer: Dimitar Nestorov
+Author: Dimitar Nestorov
+Section: Tweaks
