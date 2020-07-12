@@ -13,8 +13,5 @@
     "logos_files": [
       "Tweak.xm",
     ],
-    "stage": [
-      "cp icon.png $proj_build_dir/$stagedir/$location/DiscordScrollToTop.png",
-    ],
   },
 }
