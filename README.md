@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="100" alt="Icon"></p>
+<p align="center"><img src="layout/Library/MobileSubstrate/DynamicLibraries/DiscordScrollToTop.png" width="100" alt="Icon"></p>
 <h1 align="center">DiscordScrollToTop</h1>
 
 ## License
